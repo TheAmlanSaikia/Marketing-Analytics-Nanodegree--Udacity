@@ -1,0 +1,1 @@
+This project was the 1st assignment of the course and it was required to visualize the data from the link https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true 
