@@ -1,1 +1,1 @@
-We collected the data from Google Analytics in Google Merchandise Account. I showed here various proccess according to requirement and also analyse data in Google analytics and presented. 
+We collected the data from Google Analytics in Google Merchandise Account. I showed here various proccess according to requirement and also analyse data in Google analytics and presented in the Powerpoint Template. 
