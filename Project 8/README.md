@@ -1,0 +1,1 @@
+We were given a sample datset. Here I analyzed the  marketing data and crafted a Campaign Report. I answered 5 questions here according to criteria which analyze the data predictes the future outcome. 
